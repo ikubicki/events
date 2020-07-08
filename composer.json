@@ -1,0 +1,8 @@
+{
+    "name": "irekk/events",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Irekk\\Events\\": "src"}
+    }
+}
